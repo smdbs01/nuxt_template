@@ -1,4 +1,13 @@
-# Nuxt Minimal Starter
+# A Simple Nuxt Template
+
+This is a simple Nuxt template that can be used to quickly start a new project. It includes the following:
+
+- [Nuxt](https://nuxt.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Color Mode](https://color-mode.nuxtjs.org/)
+- [Shadcn-vue](https://www.shadcn-vue.com/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
